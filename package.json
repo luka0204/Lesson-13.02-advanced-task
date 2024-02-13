@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "task.js",
+  "dependencies": {
+    "asciinema-player": "^3.6.3",
+    "crc-32": "^1.2.2",
+    "lodash": "^4.17.21"
+  }
+}
